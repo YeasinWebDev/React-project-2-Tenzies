@@ -1,7 +1,6 @@
 
 
 export default function Die(props){
-    // console.log(props.key)
     const styles ={
         background : props.isHeld ? "#59E391" : "#FFFFFF"
     }
